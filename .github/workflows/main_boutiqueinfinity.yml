@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'BoutiqueInfinity'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1B9D09AADA1B405F89250D1637422321 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CA33B98B673947F3A5DB3BBC5391B8CC }}
           package: .
